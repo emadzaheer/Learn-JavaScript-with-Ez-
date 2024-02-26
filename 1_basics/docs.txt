@@ -1,0 +1,2 @@
+tc39.es. This is the ecma script of JS
+mdn is the mozilla documentation of JS
