@@ -1,2 +1,5 @@
 tc39.es. This is the ecma script of JS
 mdn is the mozilla documentation of JS
+
+These JS files require the LTS version of node.js installed in your pc or development environment.
+To run a file, write " node filename.js " in the terminal. Make sure you're in the correct directory.   

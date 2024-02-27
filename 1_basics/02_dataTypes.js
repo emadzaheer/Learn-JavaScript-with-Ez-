@@ -1,6 +1,6 @@
 "use strict";   //strictly uses the newer version of JS
 
-//alert(2+2);   //node doesn't recognize, this is a browser command.
+//alert(2+2);   //node doesn't recognize, this is a browser command. It will work in the browser console.
 
 /* types: 
 PRIMITIVE:
@@ -8,7 +8,7 @@ PRIMITIVE:
 Number : 2 ^ 53 range,
 bigint: higher range
 string: ""
-boolean: t/f
+boolean: true or false
 null: object
 undefined: undefined
 symbol: unique stuff
