@@ -32,7 +32,7 @@ console.log("merged object", objC);
 const objD = { ...objA, ...objB }; //spread operator to merge objects
 console.log("merged object using spread", objD);
 
-//get kyeys and values of an object
+//get keys and values of an object
 const keys = Object.keys(objA);
 const values = Object.values(objA);
 const entries = Object.entries(objA); //array of [key, value] pairs
